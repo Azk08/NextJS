@@ -3,4 +3,4 @@ export const inter = Inter({ subsets: ['latin']});
 export const poppins = Poppins({
     weight: ['400','700'],
     subsets: ['latin'],
-})git 
+})
